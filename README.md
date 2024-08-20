@@ -3,7 +3,7 @@
 
 Este proyecto consta de una página web básica que demuestra las Tecnologías de HTMl, partiendo de la estructura básica del documento HTML y con secciones que incluyen encabezados, párrafos, listas, elementos multimedia, tablas y formularios.
 
-## Estructura del Proyecto
+## Estructura Principal del Proyecto
 
 El archivo principal del proyecto es `index.html`, que contiene las siguientes secciones:
 
@@ -15,18 +15,16 @@ El archivo principal del proyecto es `index.html`, que contiene las siguientes s
 7. **Tablas**: Ejemplo de una tabla básica con celdas y encabezados.
 8. **Formularios**: Un formulario simple que contiene campos de texto para el nombre y el correo electrónico y un área de texto para mensajes.
 
-## Cómo Ejecutar el Proyecto
+## Pasos para Ejecutar el Proyecto
 
 1. **Clona el repositorio** en tu máquina local:
     ```bash
-    git clone 
+    git clone https://github.com/matiFernandezz/FernandezMatiasDesarrollo3K10
     ```
 2. **Navega hasta la carpeta del proyecto**:
     ```bash
-    cd 
+    cd FernandezMatiasDesarrollo3K10
     ```
-3. **Abre el archivo `index.html`** en tu navegador preferido.
+3. **Abre el archivo `index.html`** en tu navegador preferido. No se necesita ningún requisito especial, solo abrir el  archivo en tu navegador para ver el contenido.
 
-## Requisitos
 
-No se necesitan dependencias adicionales ni compilación. Simplemente abre el archivo `index.html` en cualquier navegador web.
